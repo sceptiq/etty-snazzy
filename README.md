@@ -1,8 +1,10 @@
 # etty-snazzy
-etty theme with the colors of snazzy-theme
+etty theme with the colors of snazzy-theme (https://github.com/sindresorhus/hyper-snazzy)
 
-https://github.com/sindresorhus/hyper-snazzy
+etty is part of https://marta.yanex.org/
 
+> File Manager for macOS.
+> Native. Extensible. Fast
 
 
 ## install
