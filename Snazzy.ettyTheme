@@ -1,0 +1,27 @@
+{
+    "name": "Snazzy",
+    "ansiColors": [
+        "#282A38",
+        "#ff5c57",
+        "#5af78e",
+        "#f3f99d",
+        "#57c7ff",
+        "#ff6ac1",
+        "#9aedfe",
+        "#f1f1f0",
+        "#7b7b7b",
+        "#dca3a3",
+        "#c3bf9f",
+        "#f0dfaf",
+        "#94bff3",
+        "#ec93d3",
+        "#93e0e3",
+        "#ffffff" 
+    ],
+    "cursor": "#ffa460",
+    "cursorText": "#ffffff",
+    "selection": "#353883",
+    "selectedText": "#f1f1f1",
+    "background": "#282a38",
+    "foreground": "#eff0eb"
+}
